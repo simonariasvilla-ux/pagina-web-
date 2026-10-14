@@ -1,0 +1,19 @@
+{
+  "name": "soy-crespa-naturalmente",
+  "version": "2.0.0",
+  "description": "Rediseño digital premium, funcional y orientado a reservas de Soy Crespa Naturalmente (Pereira, Colombia)",
+  "main": "index.html",
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File ./server.ps1",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "cuidado-capilar",
+    "cabello-crespo",
+    "pereira",
+    "rizos",
+    "belleza-editorial"
+  ],
+  "author": "Soy Crespa Naturalmente",
+  "license": "ISC"
+}
